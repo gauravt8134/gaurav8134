@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Thakare</h1>
-<h3 align="center">Your Friendly Neighbourhood IT student who loves breaking things apart and building them better. Learning DevOps, think in cloud architecture, and ship real-world projects that actually work.</h3>
+<h3 align="center">Your Friendly Neighbourhood Nerd who loves breaking things apart and building them better. Learning DevOps, think in cloud architecture, and ship real-world projects that actually work.</h3>
 
 - 🌱 I’m currently learning **Cloud & DevOps**
 
