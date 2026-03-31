@@ -23,7 +23,6 @@
 <h4 align="left">GITHUB STATS:</h4>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gauravt8134&theme=github-dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav8134&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
